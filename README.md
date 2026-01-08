@@ -25,8 +25,6 @@ The job will:
 1. Execution Logs
 The system successfully processed all 30 articles, generating 265 semantic chunks. You can verify the consistency of the data pipeline in the console output below:
 
-Plaintext
-
 ```
 --- Starting OptiBot Sync Job ---
 Total articles found: 30
